@@ -1,0 +1,1 @@
+emcc -o index.html hello.c --shell-file shell_minimal.html     
